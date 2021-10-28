@@ -5,7 +5,7 @@
 # # list.reverse() - ('Разворачивает список')
 # # list.copy() - ('Поверхностная копия списка ')
 
-# Пример 
+#
 l = list()
 list.append(10)
 list.append(-3)
