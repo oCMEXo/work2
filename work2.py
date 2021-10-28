@@ -1,1 +1,5 @@
-print('Hallo worold')
+l = list()
+list.append(10)
+list.append(-3)
+list.append(25)
+print(l)
